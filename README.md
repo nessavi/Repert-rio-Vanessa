@@ -27,14 +27,7 @@
     <h2>Meus projetos</h2>
     <section class="projects">
 
-      <style>
-  .img-container {
-    display: flex;
-    gap: 10px; /* Espaço entre as imagens */
-  }
-  .img-container img {
-    width: 150px;
-  }
+    
 </style>
 
 <div class="img-container">

@@ -28,19 +28,19 @@
     <section class="projects">
 
       <div class="card">
-        <img src="ALUNA_DESTAQUE.png" alt="Biblioteca">
+        <img src="ALUNA_DESTAQUE.jpeg" alt="Biblioteca">
         
         <p>Aluna destaque de ciências da natureza e matemática.</p>
       </div>
 
       <div class="card">
-        <img src="oqsp.png" alt="IA">
+        <img src="oqsp.jpeg" alt="IA">
     
         <p>Medalista da OQSP BRONZE.</p>
       </div>
 
       <div class="card">
-        <img src="Foto_com_cachorro.jpg" alt="Universo">
+        <img src="Foto_com_cachorro.jpeg" alt="Universo">
         
         <p>Objetivo de ter sua própria clinica.</p>
       </div>

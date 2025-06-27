@@ -27,44 +27,18 @@
     <h2>Meus projetos</h2>
     <section class="projects">
 
-      <div class="card">
-        <img src="ALUNA_DESTAQUE.png" alt="Biblioteca">
-        
-        <p>Aluna destaque de ciências da natureza e matemática.</p>
-      </div>
+      <style>
+  .img-container {
+    display: flex;
+    gap: 10px; /* Espaço entre as imagens */
+  }
+  .img-container img {
+    width: 150px;
+  }
+</style>
 
-      <div class="card">
-        <img src="oqsp.png" alt="IA">
-    
-        <p>Medalista da OQSP BRONZE.</p>
-      </div>
-
-      <div class="card">
-        <img src="Foto_com_cachorro.jpg" alt="Universo">
-        
-        <p>Objetivo de ter sua própria clinica.</p>
-      </div>
-
-    </section>
-  </main>
-</body>
-</html>
-body {
-  font-family: 'Arial', sans-serif;
-  margin: 0;
-  padding: 0;
-  background: #f6f9fc;
-  color: #1a1a1a;
-  text-align: center;
-}
-
-header {
-  padding: 40px 20px;
-}
-
-.avatar {
-  width: 100px;
-  border-radius: 50%;
-  margin-bottom: 15px;
-}
-
+<div class="img-container">
+  <img src="ALUNA_DESTAQUE.jpg" alt="Imagem 1" />
+  <img src="oqsp.jpg" alt="Imagem 2" />
+  <img src="Foto_com_cachorro.jpg" alt="Imagem 3" />
+</div>

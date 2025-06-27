@@ -29,8 +29,8 @@
     <h2>Meus projetos</h2>
     <section class="projects">
       <div class="img-container">
-        <img src="ALUNA_DESTAQUE.jpg" alt="Aluna Destaque" />
-        <img src="oqsp.jpg" alt="Projeto escolar" />
+        <img src="ALUNA_DESTAQUE.jpg.jpg" alt="Aluna Destaque" />
+        <img src="oqsp.jpg.jpg" alt="Projeto escolar" />
         <img src="Foto_com_cachorro.jpg" alt="Com cachorro" />
       </div>
     </section>

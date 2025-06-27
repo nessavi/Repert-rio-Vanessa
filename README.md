@@ -27,9 +27,6 @@
     <h2>Meus projetos</h2>
     <section class="projects">
 
-    
-</style>
-
 <div class="img-container">
   <img src="ALUNA_DESTAQUE.jpg" alt="Imagem 1" />
   <img src="oqsp.jpg" alt="Imagem 2" />

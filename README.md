@@ -28,7 +28,7 @@
     <section class="projects">
 
       <div class="card">
-        <img src="ALUNA_DESTAQUE.jpeg" alt="Biblioteca">
+        <img src="ALUNA_DESTAQUE.png" alt="Biblioteca">
         
         <p>Aluna destaque de ciências da natureza e matemática.</p>
       </div>
